@@ -3,8 +3,8 @@
 ## R-scripts for analysing questionnaire data
 The following repository is made up of two files:
 
-1. Survey_data.txt
-2. Questionnaire anaylsis.r
+1. `Survey_data.txt`
+2. `Questionnaire anaylsis.r`
 
 The former file contains the anonymised responses from 50 household to a series of questions, and the second file includes all the R-scripts to analyses these data statistically.
 
