@@ -23,9 +23,9 @@ Q11 <- 3-Q11
 
 
 #################################
-#								#
+#						                		#
 # 	Testing multidimensionality	#
-#								#
+#								                #
 #################################
 
 wetland.benefits <- cbind(Q1,Q3,Q5,Q7,Q9,Q11,Q13,Q15)
@@ -37,9 +37,9 @@ omega (damaging.activities)
 
 
 #############################
-#							#
-# 	Table 2 in manuscript	#
-#							#
+#						              	#
+# 	Table 2 in manuscript	  #
+#						              	#
 #############################
 
 # (1) Benefits from wetlands
@@ -64,9 +64,9 @@ summary(lm(damage.self ~ damage.group+0))
 
 
 #############################
-#							#
+#							              #
 # 	Figure 2 in manuscript	#
-#							#
+#							              #
 #############################
 
 # Assign resonses to ecosystem service category
@@ -127,9 +127,9 @@ dev.off()  # Figure should be saved in working directory
 
 
 #############################
-#							#
-# 	Table 2 in manuscript	#
-#							#
+#						              	#
+# 	Table 2 in manuscript 	#
+#						              	#
 #############################
 
 # Calculate the means and standard error of self-reported damage activities 
@@ -161,9 +161,9 @@ group.expected
 
 
 #############################
-#							#
-# 	Table 4 in manuscript	#
-#							#
+#						              	#
+# 	Table 4 in manuscript	  #
+#							              #
 #############################
 
 
@@ -198,9 +198,9 @@ anova(es.lm)
 
 
 #############################
-#							#
-# 	Table 4 in manuscript	#
-#							#
+#							              #
+# 	Table 4 in manuscript	  #
+#						              	#
 #############################
 
 
